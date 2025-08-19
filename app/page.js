@@ -10,13 +10,13 @@ export default function Home() {
         <p>About Section</p>
       </section>
       <section id="skills" className="bg-grey-900 relative min-h-screen w-full mx-auto overflow-hidden">
-        <p>Hero Section</p>
+        <p>Skills Section</p>
       </section>
       <section id="project" className="bg-grey-900 relative min-h-screen w-full mx-auto overflow-hidden">
-        <p>Hero Section</p>
+        <p>Project Section</p>
       </section>
       <section id="contact" className="bg-grey-900 relative min-h-screen w-full mx-auto overflow-hidden">
-        <p>Hero Section</p>
+        <p>Contact Section</p>
       </section>
     </main>
   );
